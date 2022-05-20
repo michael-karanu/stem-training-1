@@ -2,7 +2,7 @@
 ## Day one
 Learning markdown
 installing python
-##Day two
+## Day two
 intergers
 strings
 floats
