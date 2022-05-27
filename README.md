@@ -17,15 +17,17 @@ manipulating data
 if, else and elif functions
 control flow
 while loops
-##Day Five
+## Day Five
 making a complex calculator
 inputs
-##Day six
+## Day six
 loops
 functions
-##Day Seven
+## Day Seven
 kuccps talk
-##Day Eight
+## Day Eight
 dictionaries
 editing files on python
-eerors in python
+errors in python
+## Day nine
+object oriented programming
