@@ -31,3 +31,5 @@
 . errors in python
 ## Day nine
 . object oriented programming
+## Day ten
+. graphical user interface
