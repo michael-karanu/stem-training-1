@@ -36,4 +36,7 @@
 ## Day eleven
 . object oriented programming
 . modules
-
+## Day twelve
+.graphical user interface
+.getting input from the user using GUI
+.making a simple calc using GUI
