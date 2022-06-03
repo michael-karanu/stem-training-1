@@ -40,3 +40,7 @@
 .graphical user interface
 .getting input from the user using GUI
 .making a simple calc using GUI
+## Day thirteen
+.creating a text field in GUI
+.file editing in python
+.try except
