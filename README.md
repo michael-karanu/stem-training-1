@@ -44,3 +44,9 @@
 .creating a text field in GUI
 .file editing in python
 .try except
+## Day fourteen
+.game development with python
+.installing pygame
+.creating a pygame window
+.creating a background
+.creating an icon
